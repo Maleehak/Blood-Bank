@@ -24,6 +24,7 @@ int main()
 		case 1:
 			{
 			//helo world
+			cout << "Welcome to blood bank, please only choose the option given for better result";
 			cout << "Enter your name" << endl;
 			cin >> name;
 			cout << "Enter your blood Group" << endl;
